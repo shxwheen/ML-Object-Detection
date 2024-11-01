@@ -1,1 +1,1 @@
-testing yolo model for cal poly cpe capstone proj
+testing coco ssd model for cal poly cpe capstone project
